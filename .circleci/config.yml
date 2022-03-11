@@ -6,3 +6,4 @@ workflows:
   e2e-tests:
     jobs:
       - cypress/run
+      
